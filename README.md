@@ -1,2 +1,2 @@
 # DADV
-Data Analysis and Data Visualization
+Collection of projects on data analysis and data visualization
